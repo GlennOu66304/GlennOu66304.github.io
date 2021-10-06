@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: Creat a Website with Bootstrap
 categories: [Bootstrap]
 ---
