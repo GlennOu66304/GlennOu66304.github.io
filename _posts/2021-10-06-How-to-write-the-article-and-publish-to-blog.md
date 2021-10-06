@@ -18,8 +18,9 @@ bundle exec jekyll serve --watch --host=127.0.0.1 --port=8080
 ## and publish to the github
 
 ```
-cd to the destination file
+cd to the destination folder
 git add file
+// (you can cd to file path, then process below )
 git commit -m 'file'
 git push -u origina main
 ```
