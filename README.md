@@ -1,3 +1,11 @@
+## 为 Jekyll 博客系统增加百度统计        
+
+为 Jekyll 博客系统增加百度统计 [为 Jekyll 博客系统增加百度统计 ](https://jueee.github.io/2020/06/2020-06-19-%E4%B8%BAJekyll%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F%E5%A2%9E%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/#:~:text=%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1%E6%98%AF%E7%BD%91%E7%AB%99%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%EF%BC%8C%E4%B8%BA,Jekyll%20%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%85%A5%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%BE%88%E6%96%B9%E4%BE%BF%E7%9A%84%E6%9F%A5%E7%9C%8B%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%90%84%E7%A7%8D%E8%AE%BF%E9%97%AE%E3%80%81%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E3%80%82)   
+
+为Jekyll添加Google Analytics（分析）服务:[为Jekyll添加Google Analytics（分析）服务](https://lyk6756.github.io/2017/03/01/google_analytics.html)  
+
+
+
 # 介绍
 
 [![Language](https://img.shields.io/badge/Jekyll-Theme-blue)](https://github.com/TMaize/tmaize-blog)
