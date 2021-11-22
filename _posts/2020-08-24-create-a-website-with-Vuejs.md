@@ -81,6 +81,12 @@ overview:
 [Vue installation](https://vuejs.org/v2/guide/installation.html#NPM)  
 [What is the difference between importing Vue.js library and installing it via Vue-CLI?](https://stackoverflow.com/questions/47866396/what-is-the-difference-between-importing-vue-js-library-and-installing-it-via-vu#:~:text=vue%2Dcli%20is%20just%20a,generates%20Vue%20projects%20from%20templates.&text=This%20will%20initialize%20a%20node,the%20webpage%20via%20.)
 
+## Syntext learning
+
+[尚硅谷】Vue技术全家桶 全套教程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJGngWQCvO4Txf6IcQYy7KAb)   
+
+[尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通](https://www.bilibili.com/video/BV1Zy4y1K7SH/)   
+[Documentation](https://cn.vuejs.org/v2/guide/list.html)   
 ## Resource list:
 
 Tutorial:  
